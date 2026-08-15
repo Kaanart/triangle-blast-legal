@@ -195,11 +195,7 @@ Privacy Framework. See [Google's Privacy Policy](https://policies.google.com/pri
 
 Triangle Blast is intended for a general audience and is not directed at
 children under 13. We do not knowingly collect personal information from
-children. [If your final App Store/Play Store age rating or marketing
-positioning changes this, this section and the AdMob configuration above
-need re-review — a child-directed app has substantially different
-obligations under COPPA and Google Play's Families Policy that this draft
-does not attempt to cover.]
+children.
 
 ## Your Choices
 

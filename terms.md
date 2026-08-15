@@ -61,7 +61,7 @@ Ads are delivered by Google AdMob, and the App uses Google's User
 Messaging Platform and Apple's App Tracking Transparency framework to
 manage your consent choices around ad personalization. The App also uses
 Sentry (crash/error reporting) and Supabase (anonymous gameplay
-analytics). See our [Privacy Policy] for exactly what data each of these
+analytics). See our [Privacy Policy](https://kaanart.github.io/triangle-blast-legal/) for exactly what data each of these
 receives. Your use of these third-party services through the App is also
 subject to their own terms:
 - [Google Play Terms of Service](https://play.google.com/intl/en-us_us/about/play-terms/)
